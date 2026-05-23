@@ -17,9 +17,19 @@ UCI Human Activity Recognition Dataset
 - Accuracy analysis
 
 ## Results
+
 Random Forest achieved the highest accuracy among the tested models.
 
+## Model Comparison
+
+![Model Comparison](model_comparison.png)
+
+## Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
+
 ## Future Improvements
+
 - CNN and LSTM implementation
 - Real-time IoT sensor integration
 - Smart healthcare monitoring systems
